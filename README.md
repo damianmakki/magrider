@@ -1,3 +1,1 @@
-## Sup DevMak
-### Edit this when you can!
-#### okay i did this again okay?
+Awesome. Now time to learn `git pull`
